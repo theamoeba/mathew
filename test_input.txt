@@ -1,0 +1,70 @@
+# Test basic operations
+a = 3 + 5 * 2
+b = (4 + 6) / 2
+c = 7 - 3 * 2 + 10 / 5
+d = 2 ** 3
+
+a
+b
+c
+d
+
+# Test comparisons
+x = 5
+y = 10
+z = 5
+comparison_1 = x < y
+comparison_2 = x == z
+comparison_3 = x != y
+comparison_4 = x >= z
+comparison_5 = x > y
+
+# Test boolean expressions
+bool_expr_1 = (x < y) and (y > 5)
+bool_expr_2 = (x == z) or (y < 5)
+bool_expr_3 = not (x > y)
+
+# Test bitwise operations
+bitwise_and = 5 & 3
+bitwise_or = 5 | 3
+bitwise_xor = 5 ^ 3
+bitwise_left_shift = 5 << 1
+bitwise_right_shift = 5 >> 1
+
+# Test math functions
+sin_value = sin(pi / 2)
+cos_value = cos(pi)
+tan_value = tan(pi / 4)
+sqrt_value = sqrt(16)
+log_value = log(10)
+exp_value = exp(1)
+abs_value = abs(-10)
+round_value = round(3.14159, 2)
+factorial_value = factorial(5)
+complex_number = complex(2, 3)
+
+# Test predefined constants
+speed_of_light = c
+gravity = g
+planck_constant = h
+avogadro_number = Na
+boltzmann_constant = kb
+
+# Test undefined variables
+undefined_var = non_existent_var
+
+# Test variable assignments
+e = 2.718
+f = e ** 2
+
+# Test expressions in a single line
+result_1 = a + b * c - d
+result_2 = sin(pi / 4) + cos(pi / 4)
+
+result_1
+result_2
+
+# Test more complex expressions
+complex_expression = (x + y) * (z - x) / sqrt(25) + log(exp(10))
+
+complex_expression

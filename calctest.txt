@@ -1,0 +1,30 @@
+r = 200
+
+C = 2 * pi * r
+
+C
+
+m = 10000
+
+e = m * c**2
+
+
+e
+
+mypi = 22/7
+mypi
+
+pi
+
+f = 0
+
+mypi < pi
+
+f
+
+ui = 500
+zed = 20
+gh = 55
+
+ned = ui + 1 / zed - gh
+ned
